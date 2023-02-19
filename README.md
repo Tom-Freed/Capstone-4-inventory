@@ -1,15 +1,15 @@
 # Capstone Project 4: inventory
 
-### Description
+## Description
 A Python program using OOP to handle a variety of stock-taking tasks for a warehouse of shoes.
 
-### Installation
+## Installation
 - Dowload both inventory.py and inventory.txt files.
 - Store both files in the same folder on your device.
 - Open the folder in your IDE.
 - Run inventory.py
 
-### Usage
+## Usage
 - Upon running inventory.py you will be greeted with the following menu:
 
 ![image](https://user-images.githubusercontent.com/91968539/219885409-9e7cf2f6-e7c1-490b-9835-5593c00a9f76.png)
