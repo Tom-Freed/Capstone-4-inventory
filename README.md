@@ -1,4 +1,4 @@
-# Capstone Project IV - Warehouse management
+# Capstone Project 4: inventory
 
 ### Description
 A Python program using OOP to handle a variety of stock-taking tasks for a warehouse of shoes.
